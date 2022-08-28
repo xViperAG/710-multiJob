@@ -3,7 +3,9 @@
 # Original Fork [Here](https://github.com/Kmack710/710-multiJob)
 
 ## This is a simple Multijob script I made cause too many people were charging $15+ for something so simple.
-![image](https://i.imgur.com/pwxro0E.png)
+
+###Retzu
+![image](https://i.imgur.com/l77I3is.png)
 
 ### New QB-Menu Changes
 ![image](https://i.imgur.com/1MMxQQX.png)
