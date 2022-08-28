@@ -1,5 +1,12 @@
+# 710-multiJob Rewritten by xViperAG
+
+# Original Fork [Here](https://github.com/Kmack710/710-multiJob)
+
 ## This is a simple Multijob script I made cause too many people were charging $15+ for something so simple.
 ![image](https://i.imgur.com/pwxro0E.png)
+
+### New QB-Menu Changes
+![image](https://i.imgur.com/1MMxQQX.png)
 
 ## Add this to your Database! Without this it wont work! Be sure to change payment amount below to the amount of your unemployeed Paycheque 
 ```sql
