@@ -4,18 +4,15 @@
 
 ## This is a simple Multijob script I made cause too many people were charging $15+ for something so simple.
 
-###Retzu
+### RenzuContextMenu
 ![image](https://i.imgur.com/l77I3is.png)
 
 ### New QB-Menu Changes
 ![image](https://i.imgur.com/1MMxQQX.png)
 
-## Add this to your Database! Without this it wont work! Be sure to change payment amount below to the amount of your unemployeed Paycheque 
-```sql
-ALTER TABLE `players`
-	ADD COLUMN `job_two` TEXT NULL DEFAULT '{"name":"unemployed","onduty":true,"payment":10,"label":"Civilian","grade":{"name":"Freelancer","level":0},"isboss":false}';
-```
+## Drag the SQL into your Database
 
 ## Dependancies 
-- QBCore 
-- Qb-menu or Renzucontextmenu 
+- QBCore - https://github.com/qbcore-framework
+- Qb-menu - https://github.com/qbcore-framework/qb-menu
+- Renzucontextmenu - https://github.com/renzuzu/renzu_contextmenu
