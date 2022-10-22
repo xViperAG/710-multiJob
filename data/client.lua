@@ -18,7 +18,7 @@ if Config.usingQBmenu then
             {
                 header = "Current Job",
                 isMenuHeader = true,
-                txt = "You are currently working as "..Player.job.label..".",
+                txt = "Job: "..Player.job.label.."<br>".."Grade: "..Player.job.grade.name..".",
                 icon = "fas fa-person-circle-check",
             },
             {
